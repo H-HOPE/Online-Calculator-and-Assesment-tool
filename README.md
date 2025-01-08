@@ -1,5 +1,6 @@
-# Online-Calculator-and-Assesment-tool
+# Online Calculator and Assesment tool
 
+## H-HOPE Assesment tool
 The H-Hope Assessment Tool is an Google-Sheet based assessment tool aimed for stakeholders such as Utility Companies, Local Municipalities, Remote Communities, Energy Companies, and others that are interested in deploying and installed DO IT YOURSELF (DIY)H-Hope Energy Harvesters technology into existing urban water system infrastructure to generate energy to power various potential application such as self-power monitoring system, small energy generation for batteries to power valves in the system, and energy generation for small local consumption or backup energy in case of emergency.
 
 The H-HOPE Assesment-tool is available here: This site was built using [H-HOPE Assesment tool](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=1594760598#gid=1594760598)].
@@ -9,7 +10,7 @@ The tool is interactive process, and information intensive process, which is ena
 
 This version of the H-Hope_Assessment_Tool is the Newest Version of H-Hope assessment tool and is being shared for practical application of stakeholder interested and concerning projects related to the installation and deployment of DIY H-Hope Energy in an existing water system infrastructure, and to encourage application and discussion of the tool usability.
 
-#H-HOPE DIY Calculator		
+## H-HOPE DIY Calculator		
 		
 The H-HOPE DIY Device Power and Dimensions Calculator is a tool designed to determine the optimal dimensions of and H-HOPE harvester cylinder based on user-provided inputs, specified input parameters, the calculator provides two sets of results: DIY output and 1D model output, such as water speed and the depth and width of a river or channel. In addition to calculating	the ideal cylinder size, the tool also estimates the mechanical power output. Using the specified input parameters, the calculator provides two sets of results: DIY output and 1D model output.		
 		
