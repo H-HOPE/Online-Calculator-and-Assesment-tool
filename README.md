@@ -8,7 +8,7 @@
 The H-Hope Assessment Tool is an Google-Sheet based assessment tool aimed for stakeholders such as Utility Companies, Local Municipalities, Remote Communities, Energy Companies, and others that are interested in deploying and installed DO IT YOURSELF (DIY)H-Hope Energy Harvesters technology into existing urban water system infrastructure to generate energy to power various potential application such as self-power monitoring system, small energy generation for batteries to power valves in the system, and energy generation for small local consumption or backup energy in case of emergency.
 
 <div align="center">
-<img src="/images/DIY_economy.PNG" alt="drawing" width="450"/>
+<img src="/images/DIY_economy.PNG" alt="drawing" width="650"/>
 </div>
 
 
@@ -26,7 +26,7 @@ The H-HOPE DIY Device Power and Dimensions Calculator is a tool designed to dete
 The H-HOPE Calculator provides detailed economic and environmental analyses for evaluating the performance and sustainability	of an H-HOPE harvester over its lifetime. The results are categorized into Economic Output and Environmental Analysis (LCA)	Output, offering insights into both financial viability and ecological impact.	
 
 <div align="center">
-<img src="/images/DIY_CALC.PNG" alt="drawing" width="450"/>
+<img src="/images/DIY_CALC.PNG" alt="drawing" width="650"/>
 </div>
 
 The H-HOPE DIY Calculator is available here: This site was built using [H-HOPE DIY Calculator](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=298340741#gid=298340741).
