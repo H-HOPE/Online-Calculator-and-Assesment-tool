@@ -9,6 +9,8 @@ The H-Hope Assessment Tool is an Google-Sheet based assessment tool aimed for st
 
 <div align="center">
 <img src="/images/DIY_economy.PNG" alt="drawing" width="650"/>
+<br />
+Figure 1: The H-Hope Assessment Tool.
 </div>
 
 
@@ -27,6 +29,8 @@ The H-HOPE Calculator provides detailed economic and environmental analyses for 
 
 <div align="center">
 <img src="/images/DIY_CALC.PNG" alt="drawing" width="650"/>
+<br />
+Figure 1: The H-Hope DIY calculator.
 </div>
 
 The H-HOPE DIY Calculator is available here: This site was built using [H-HOPE DIY Calculator](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=298340741#gid=298340741).
