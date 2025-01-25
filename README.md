@@ -33,6 +33,7 @@ The H-HOPE Calculator provides detailed economic and environmental analyses for 
 Figure 2: The H-Hope DIY calculator.
 </div>
 &nbsp;
+
 The H-HOPE DIY Calculator is available here: This site was built using [H-HOPE DIY Calculator](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=298340741#gid=298340741).
 &nbsp;
 &nbsp;
