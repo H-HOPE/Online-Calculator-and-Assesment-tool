@@ -19,7 +19,7 @@ The H-HOPE Calculator provides detailed economic and environmental analyses for 
 The H-HOPE DIY Calculator and Assessment tool is available here: [Online DIY Calculator and Assessment tool](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=1594760598#gid=1594760598).
 &nbsp;
 <div align="center">
-<img src="/images/H-HOPE_DIY_calc_and_assessment.JPG" alt="drawing" width="750"/>
+<img src="/images/H-HOPE_DIY_calc_and_assessment.JPG" alt="drawing" width="950"/>
 <br />
 Figure 2: Online H-HOPE DIY Calculator and Assesment tool.
 </div>
