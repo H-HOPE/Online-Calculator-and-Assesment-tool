@@ -14,12 +14,10 @@ Figure 1: The H-Hope Assessment Tool.
 </div>
 &nbsp;
 
-The H-HOPE Assesment-tool is available here: This site was built using [H-HOPE Assesment tool](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=1594760598#gid=1594760598).
+The H-HOPE Assesment-tool is available here: [H-HOPE Assesment tool](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=1594760598#gid=1594760598).
 
 The tool aims to provide the stakeholder ways to assessment, first) the technology feasibility of H-Hope technology in relation to the water system parameters such as water velocity in the location of installation, which will provide the user with an understanding of the potentail energy output from installing one energy harvester or a series of energy harvester upto 30 harvesters. Second) The risk assessment in relation to water system data inputs, and energy harvester design, which will provide the user with insights into potentail limitation and risks that can impact the operational reliability of the energy harvester, and impact the feasibility of installation. Third) The environmental impact associate with both the material profile of the selected harvesters, and the installation and deployment of the energy harvester into stakeholder proposed water system, and infrastructure, which will provide the user with information on the environmental impact of manufacturing, and total life cycle of one or units of energy harvester being installed, as well as the environmental impact of producing one unit of energy using the energy harvester. Lastly, fourth) The economic feasibility and benefits associated with installation and deployment of the energy harvester to the proposed water system and infrastructure, which will provide the user with information of economic costs of producing one unit of energy using the energy harvester, payback time, and rate of return of investment to stakeholder, therefore giving the user an understand of the economic feasibility of deploying and installing the H-Hope Energy technology.
 The tool is interactive process, and information intensive process, which is enable to give the user holistic and overview feasibility results concerning the installation  and deployment of the H-Hope energy harvester technology to an existing water system infrastructure for various utilization.
-
-This version of the H-Hope_Assessment_Tool is the Newest Version of H-Hope assessment tool and is being shared for practical application of stakeholder interested and concerning projects related to the installation and deployment of DIY H-Hope Energy in an existing water system infrastructure, and to encourage application and discussion of the tool usability.
 
 ## H-HOPE DIY Calculator		
 		
@@ -34,7 +32,7 @@ Figure 2: The H-Hope DIY calculator.
 </div>
 &nbsp;
 
-The H-HOPE DIY Calculator is available here: This site was built using [H-HOPE DIY Calculator](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=298340741#gid=298340741).
+The H-HOPE DIY Calculator is available here: [H-HOPE DIY Calculator](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=298340741#gid=298340741).
 &nbsp;
 &nbsp;
 &nbsp;
