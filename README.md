@@ -16,8 +16,8 @@ The H-HOPE DIY Device Power and Dimensions Calculator is a tool designed to dete
 		
 The H-HOPE Calculator provides detailed economic and environmental analyses for evaluating the performance and sustainability	of an H-HOPE harvester over its lifetime. The results are categorized into Economic Output and Environmental Analysis (LCA) Output, offering insights into both financial viability and ecological impact.	
 
-The H-HOPE DIY Calculator and Assessment toolis available here: [Online DIY Calculator and Assesment tool](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=1594760598#gid=1594760598).
-
+The H-HOPE DIY Calculator and Assessment tool is available here: [Online DIY Calculator and Assessment tool](https://docs.google.com/spreadsheets/d/1LuZQPRvfYULUB2h-VDST4QxazxZZUS7gDjoAN001Wdg/edit?gid=1594760598#gid=1594760598).
+&nbsp;
 <div align="center">
 <img src="/images/H-HOPE_DIY_calc_and_assessment.JPG" alt="drawing" width="750"/>
 <br />
