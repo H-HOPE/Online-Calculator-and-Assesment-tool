@@ -21,7 +21,7 @@ The H-HOPE DIY Calculator and Assessment tool is available here: [Online DIY Cal
 <div align="center">
 <img src="/images/H-HOPE_DIY_calc_and_assessment.JPG" alt="drawing" width="950"/>
 <br />
-Figure 2: Online H-HOPE DIY Calculator and Assesment tool.
+Figure 1: Online H-HOPE DIY Calculator and Assesment tool.
 </div>
 &nbsp;
 
